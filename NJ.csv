@@ -1,4 +1,7 @@
 date,state,positive,negative,pending,hospitalizedCurrently,hospitalizedCumulative,inIcuCurrently,inIcuCumulative,onVentilatorCurrently,onVentilatorCumulative,recovered,death,hospitalized,total,totalTestResults,posNeg,deathIncrease,hospitalizedIncrease,negativeIncrease,positiveIncrease,totalTestResultsIncrease
+20200422,NJ,95865,95794,None,7210,None,1983,None,1570,None,None,5063,None,191659,191659,191659,310,0,3355,3478,6833
+20200421,NJ,92387,92439,None,7594,None,1930,None,1501,None,None,4753,None,184826,184826,184826,376,0,3188,3581,6769
+20200420,NJ,88806,89251,None,6986,None,2018,None,1594,None,None,4377,None,178057,178057,178057,175,0,3864,3505,7369
 20200419,NJ,85301,85387,None,7494,None,1940,None,1628,None,None,4202,None,170688,170688,170688,132,0,4271,3881,8152
 20200418,NJ,81420,81116,None,7718,None,2024,None,1641,None,None,4070,None,162536,162536,162536,230,0,2134,2953,5087
 20200417,NJ,78467,78982,None,8011,None,1961,None,1594,None,None,3840,None,157449,157449,157449,322,0,2469,3150,5619
